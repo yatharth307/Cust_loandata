@@ -15,7 +15,7 @@ High Risk: Frequent or recent bounces.
 Key Insights:
 Majority of borrowers are either Low Risk or High Risk, indicating a mix of stable and volatile repayment behaviors.
 
-Based on Ticket Sizes
+### Based on Ticket Sizes
 Borrowers are grouped into cohorts based on pending loan amounts:
 
 Low Ticket Size
